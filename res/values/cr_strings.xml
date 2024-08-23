@@ -16,6 +16,10 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
+    <!-- QS split shade -->
+    <string name="qs_split_shade_title">Split Shade</string>
+    <string name="qs_split_shade_summary">Split QS layout in landscape mode</string>
+
     <!-- App Title -->
     <string name="crdroid_settings_title">crDroid Hub</string>
     <string name="crdroid_settings_summary">Open goodness</string>
