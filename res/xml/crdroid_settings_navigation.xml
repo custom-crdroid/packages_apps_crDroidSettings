@@ -74,7 +74,6 @@
 
          <!--<ListPreference
             android:key="navigation_back_double_tap"
-            android:icon="@drawable/ic_double_tap"
             android:dialogTitle="@string/navbar_back_double_tap_title"
             android:title="@string/navbar_back_double_tap_title"
             android:entries="@array/hardware_keys_action_entries"
@@ -107,7 +106,6 @@
 
          <ListPreference
             android:key="navigation_app_switch_double_tap"
-            android:icon="@drawable/ic_double_tap"
             android:dialogTitle="@string/navbar_app_switch_double_tap_title"
             android:title="@string/navbar_app_switch_double_tap_title"
             android:entries="@array/hardware_keys_action_entries"
@@ -116,7 +114,6 @@
 
          <ListPreference
             android:key="navigation_bar_corner_long_swipe"
-            android:icon="@drawable/ic_swipe_up"
             android:dialogTitle="@string/navbar_corner_long_swipe_title"
             android:title="@string/navbar_corner_long_swipe_title"
             android:entries="@array/hardware_keys_action_entries"

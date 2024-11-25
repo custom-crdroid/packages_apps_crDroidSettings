@@ -69,7 +69,6 @@
 
         <com.crdroid.settings.preferences.SystemSettingSwitchPreference
             android:key="lockscreen_show_carrier"
-            android:icon="@drawable/ic_sim_outline"
             android:title="@string/lockscreen_show_carrier_title"
             android:summary="@string/lockscreen_show_carrier_summary"
             android:defaultValue="true" />
@@ -98,7 +97,6 @@
 
         <com.crdroid.settings.preferences.SecureSettingSwitchPreference
             android:key="lockscreen_smartspace_enabled"
-            android:icon="@drawable/ic_weather"
             android:title="@string/lockscreen_smartspace_title"
             android:summary="@string/lockscreen_smartspace_summary"
             android:defaultValue="true" />

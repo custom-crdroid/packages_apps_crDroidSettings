@@ -33,14 +33,12 @@
         <!-- QS clock
         <com.crdroid.settings.preferences.SystemSettingSwitchPreference
             android:key="show_qs_clock"
-            android:icon="@drawable/ic_clock"
             android:title="@string/qs_clock_title"
             android:summary="@string/qs_clock_summary"
             android:defaultValue="true" />
 
         <com.crdroid.settings.preferences.SystemSettingSeekBarPreference
             android:key="qs_header_clock_size"
-            android:icon="@drawable/ic_font"
             android:title="@string/clock_font_size_title"
             android:max="27"
             settings:min="10"
@@ -52,7 +50,6 @@
         <!-- QS date
         <com.crdroid.settings.preferences.SystemSettingSwitchPreference
             android:key="show_qs_date"
-            android:icon="@drawable/ic_calendar"
             android:title="@string/qs_date_title"
             android:summary="@string/qs_date_summary"
             android:defaultValue="true" /> -->
@@ -68,7 +65,6 @@
         <!-- Battery location
         <com.crdroid.settings.preferences.SystemSettingListPreference
             android:key="qs_battery_location"
-            android:icon="@drawable/ic_battery"
             android:title="@string/qs_battery_location_title"
             android:entries="@array/qs_battery_location_entries"
             android:entryValues="@array/qs_battery_location_values"
@@ -85,7 +81,6 @@
         <!-- Battery estimate
         <com.crdroid.settings.preferences.SystemSettingSwitchPreference
             android:key="qs_show_battery_estimate"
-            android:icon="@drawable/ic_timelapse_cr"
             android:title="@string/battery_estimate_title"
             android:summary="@string/battery_estimate_summary" /> -->
 
@@ -235,38 +230,32 @@
 
         <!--<com.crdroid.settings.preferences.SystemSettingSwitchPreference
             android:key="qs_footer_warnings"
-            android:icon="@drawable/ic_key"
             android:title="@string/qs_footer_warnings_title"
             android:summary="@string/qs_footer_warnings_summary"
             android:defaultValue="true"/>
 
         <com.crdroid.settings.preferences.SystemSettingSwitchPreference
             android:key="qs_footer_show_user"
-            android:icon="@drawable/ic_account"
             android:title="@string/qs_footer_users_icon_title"
             android:summary="@string/qs_footer_users_icon_summary"
             android:defaultValue="true" />
 
         <com.crdroid.settings.preferences.SystemSettingSwitchPreference
             android:key="qs_footer_show_edit"
-            android:icon="@drawable/ic_pencil"
             android:title="@string/qs_footer_edit_icon_title"
             android:defaultValue="true" />
 
         <com.crdroid.settings.preferences.SystemSettingSwitchPreference
             android:key="qs_footer_show_power_menu"
-            android:icon="@drawable/ic_power"
             android:title="@string/qs_footer_show_power_menu_title"
             android:defaultValue="true" />
 
         <com.crdroid.settings.preferences.SystemSettingSwitchPreference
             android:key="qs_footer_show_services"
-            android:icon="@drawable/ic_services"
             android:title="@string/qs_footer_services_icon_title" />
 
         <com.crdroid.settings.preferences.SystemSettingSwitchPreference
             android:key="qs_footer_show_settings"
-            android:icon="@drawable/ic_settings_main"
             android:title="@string/qs_footer_settings_icon_title"
             android:defaultValue="true" />
 
