@@ -37,4 +37,8 @@
     <string name="user_summary">Various User interface customization</string>
     <string name="about_summary">Know about this project</string>
 
+    <!-- Peek Display -->
+    <string name="peek_display_notifications_title">Peek display</string>
+    <string name="peek_display_notifications_summary">Enable minimal bubble-like lockscreen notification style</string>
+
 </resources>
