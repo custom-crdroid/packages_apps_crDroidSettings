@@ -195,6 +195,12 @@
             android:title="@string/qs_split_shade_title"
             android:summary="@string/qs_split_shade_summary"
             android:defaultValue="false" />
+        
+        <!-- QS Tiles haptic -->
+        <com.crdroid.settings.preferences.SystemSettingSwitchPreference
+            android:key="qs_tiles_haptic_feedback"
+            android:title="@string/qs_tiles_haptic_feedback_title"
+            android:defaultValue="false" />
 
     </PreferenceCategory>
 
