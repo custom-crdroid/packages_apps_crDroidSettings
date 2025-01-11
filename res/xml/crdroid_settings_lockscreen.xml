@@ -25,11 +25,11 @@
         android:title="@string/qs_clock_title">
 
         <!-- Lockscreen Clock Font style -->
-        <Preference
+      <!--  <Preference
             android:key="android.theme.customization.lockscreen_clock_font"
             android:title="@string/theme_customization_lock_clock_title"
             android:summary="@string/theme_customization_lock_clock_summary"
-            android:fragment="com.crdroid.settings.fragments.lockscreen.LockClockFontsPicker"/>
+            android:fragment="com.crdroid.settings.fragments.lockscreen.LockClockFontsPicker"/>-->
 
         <!--<com.crdroid.settings.preferences.SecureSettingSeekBarPreference
             android:key="kg_custom_clock_top_margin"
