@@ -40,6 +40,7 @@ import com.android.settings.SettingsPreferenceFragment;
 import com.android.settings.search.BaseSearchIndexProvider;
 import com.android.settingslib.search.SearchIndexable;
 
+import com.crdroid.settings.fragments.QuickSwitch;
 import com.crdroid.settings.fragments.misc.SensorBlock;
 
 import java.util.List;
